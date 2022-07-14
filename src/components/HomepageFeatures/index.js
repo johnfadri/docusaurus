@@ -8,8 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_alien.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Madali lang to mga repa!
       </>
     ),
   },
@@ -18,8 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_focus.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Focus lang wag kang lutang!
       </>
     ),
   },
@@ -28,8 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_alienreact.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        O wag masyado react uyy!
       </>
     ),
   },
